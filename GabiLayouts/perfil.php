@@ -29,7 +29,7 @@
 
         <div class="tituloperfil">
 		<!-- Nome do Utilizador -->
-		    <h1>Sujiro Kiminame</h1>
+		    <h1>Sujiro Kimimame</h1>
         </div>
 
         <div id="buttons">
